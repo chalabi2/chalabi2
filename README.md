@@ -4,4 +4,4 @@
 -   :pencil2: Busy Validating the Cosmos & building tooling :)
 ---
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalabi2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chalabi2&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
