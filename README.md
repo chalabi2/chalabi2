@@ -4,4 +4,4 @@
 -   :pencil2: Busy Validating the Cosmos & building tooling :)
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chalabi2&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
