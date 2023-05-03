@@ -14,8 +14,9 @@ Whackin' bugs and buildin' features, front-end to back-end (sometimes design). L
 
 ---
 ## Langauges:
-
-`Rust, Go, JS, TS, CSS, Docker`
+```json
+Rust, Go, JS, TS, CSS, Docker
+```
 ---
 
 ## Notable Contributions:
