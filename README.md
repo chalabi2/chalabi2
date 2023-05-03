@@ -2,7 +2,7 @@
 
 Whackin' bugs and buildin' features, front-end to back-end (sometimes design). Like a true Soprano, I put the 'code' in 'code of silence'. Keepin' it humble and wise, capisce? 🕶️💼
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.tenor.com/QvEn5CKMaR0AAAAC/sopranos-tony.gif)
+![Alt Text](https://media.tenor.com/QvEn5CKMaR0AAAAC/sopranos-tony.gif)
 
 -   :hammer_and_pick: Co-founder @ [Chandra Station](https://chandrastation.com)
 -   :pencil2: Full stack developer (designing on the side)
