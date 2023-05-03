@@ -1,6 +1,6 @@
 # Joseph Chalabi
 
-Whackin' bugs and buildin' features, front-end to back-end (sometimes design). Like a true Soprano, I put the 'code' in 'code of silence'. Keepin' it humble and wise, capisce? 🕶️💼
+Fuggedaboutit! I'm a developer cookin' up a storm, front-end to back-end (sometimes design). I put the 'code' in 'code of silence'. You got a problem with my code? I'll make you an offer you can't refuse. Capisce? 🇮🇹🍝💻"
 
 ![Alt Text](https://media.tenor.com/QvEn5CKMaR0AAAAC/sopranos-tony.gif)
 
