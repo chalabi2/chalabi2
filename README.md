@@ -1,5 +1,9 @@
 # Joseph Chalabi
 
+Whackin' bugs and buildin' features, front-end to back-end (sometimes design). Like a true Soprano, I put the 'code' in 'code of silence'. Keepin' it humble and wise, capisce? 🕶️💼
+
+![](https://gfycat.com/acrobaticresponsiblegreatwhiteshark)
+
 -   :hammer_and_pick: Co-founder @ [Chandra Station](https://chandrastation.com)
 -   :pencil2: Full stack developer (designing on the side)
 -   :pencil2: Linux sys admin
@@ -10,12 +14,7 @@
 
 ---
 ## Langauges:
-Rust,
-Go,
-JS,
-TS,
-CSS,
-Docker
+`Rust, Go, JS, TS, CSS, Docker`
 ---
 
 ## Notable Contributions:
