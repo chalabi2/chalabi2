@@ -14,7 +14,7 @@ Whackin' bugs and buildin' features, front-end to back-end (sometimes design). L
 
 ---
 ## Langauges:
-```json
+```bash
 Rust, Go, JS, TS, CSS, Docker
 ```
 ---
