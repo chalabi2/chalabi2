@@ -21,17 +21,17 @@ Rust, Go, JS, TS, CSS, Docker
 
 ## Notable Contributions:
 **Backend**
-* [Gravity Info API]() - Rust
-* [Space Station]() - TypeScript
-* [Validator Dashboard]() - TypeScript
+* [Gravity Info API](https://github.com/Gravity-Bridge/gravity-info-api) - Rust
+* [Space Station](https://github.com/ChandraStation/space-station) - TypeScript
+* [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - TypeScript
 
 **Frontend**
-* [Gravity Analytics Dashbaord]() - React/ChakraUI
-* [Validator Dashboard]() - NextJs/ChakraUI
-* [Chandra Website]() - NextJs/ChandraUI
+* [Gravity Analytics Dashbaord](https://github.com/chalabi2/gravity-dashboard) - React/ChakraUI
+* [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - NextJs/ChakraUI
+* [Chandra Website](https://github.com/chalabi2/chandra-website) - NextJs/ChandraUI
 
 **Cool Projects/Contributions** 
-* [POW mining on Akash]()
+* [POW mining on Akash](https://github.com/chandrastation/pkt-on-akt)
 * [Canto Hackathon Winner]()
 * [State Breaking Gravity Bridge Bug]()
 * [Chandra Station Harware Design & Deployment]()
