@@ -8,9 +8,9 @@
 ![Chalabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalabi2&theme=dark&show_icons=true)
 
 ---
-## Langauges:
+## Proficient in:
 ```bash
-Rust, Go, JS, TS, CSS, Docker
+Rust, Go, JS, TS, Docker
 ```
 ---
 
