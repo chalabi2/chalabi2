@@ -1,11 +1,6 @@
 # Joseph Chalabi
-
-Fuggedaboutit! I'm a developer cookin' up a storm, front-end to back-end (sometimes design). I put the 'code' in 'code of silence'. You got a problem with my code? I'll make you an offer you can't refuse. Capisce? 🇮🇹🍝💻"
-
-![Alt Text](https://media.tenor.com/ei0AVyml9YIAAAAC/the-sopranos.gif)
-
 -   :hammer_and_pick: Co-founder @ [Chandra Station](https://chandrastation.com)
--   :pencil2: Full stack developer (designing on the side)
+-   :pencil2: Full stack developer
 -   :pencil2: Linux sys admin
 -   🎵 Wannabe Audio Engineer
 ---
