@@ -1,8 +1,7 @@
 # Joseph Chalabi
--   :hammer_and_pick: Co-founder @ [Chandra Station](https://chandrastation.com)
--   :pencil2: Full stack developer
--   :pencil2: Linux sys admin
--   🎵 Wannabe Audio Engineer
+- Co-founder @ [Chandra Station](https://chandrastation.com)
+- Full stack developer
+- Linux sys admin
 ---
 
 ![Chalabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalabi2&theme=dark&show_icons=true)
