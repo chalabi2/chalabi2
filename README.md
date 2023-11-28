@@ -3,7 +3,7 @@
 - Full stack developer
 - Linux sys admin
 ---
-![Chalabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalabi2&theme=dark&show_icons=true)
+
 <br>
 [2022-2020 Commit History](https://github.com/ChandraStation)
 ---
