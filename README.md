@@ -2,11 +2,9 @@
 - Co-founder @ [Chandra Station](https://chandrastation.com)
 - Full stack developer
 - Linux sys admin
----
-
-
 [2022-2020 Commit History](https://github.com/ChandraStation)
 ---
+
 ## Proficient in:
 ```bash
 Rust, Python, JS, TS, Docker
