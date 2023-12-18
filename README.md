@@ -30,7 +30,7 @@ Rust, Python, JS, TS, Docker
 * [POW mining on Akash](https://github.com/chandrastation/pkt-on-akt)
 * [Canto Hackathon Winner]()
 * [State Breaking Gravity Bridge Bug]()
-* [Chandra Station Harware Design & Deployment]()
+* [Chandra Station Hardware Design & Deployment]()
 ---
 ## Get in touch:
 * [Twitter](https://twitter.com/chalabi_joseph)
