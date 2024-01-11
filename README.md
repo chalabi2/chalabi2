@@ -6,8 +6,9 @@
 ---
 
 ## Proficient in:
+**in order of proficiency**
 ```bash
-Rust, Python, JS, TS, Docker
+TS, JS, Docker, Rust, Solidity, Python
 ```
 ---
 
@@ -21,9 +22,10 @@ Rust, Python, JS, TS, Docker
 * [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - TypeScript
 
 **Frontend**
+* [Quiksilver Liquid Staking App](https://github.com/quicksilver-zone/quicksilver/tree/main/web-ui) - NextJs/ChakraUI
 * [Gravity Analytics Dashbaord](https://github.com/chalabi2/gravity-dashboard) - React/ChakraUI
 * [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - NextJs/ChakraUI
-* [Chandra Website](https://github.com/chalabi2/chandra-website) - NextJs/ChandraUI
+* [Chandra Website](https://github.com/chalabi2/chandra-website) - NextJs/ChakraUI
 * [Althea App](https://github.com/chalabi2/althea-app) - React/ChakraUI
 
 **Cool Projects/Contributions** 
