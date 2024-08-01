@@ -17,6 +17,7 @@ TS, JS, Docker, Rust, Solidity, Python
 * [Neons Dao Refund](https://github.com/chalabi2/neons-refund) - Solidty/Python
   
 **Backend**
+* [Cosmos Indexer](https://github.com/ChandraStation/cosmos-indexer) - Rust
 * [Gravity Info API](https://github.com/Gravity-Bridge/gravity-info-api) - Rust
 * [Space Station](https://github.com/ChandraStation/space-station) - TypeScript
 * [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - TypeScript
