@@ -12,15 +12,17 @@ TS, JS, Docker, Rust, Solidity, Python
 ```
 ---
 
-## Notable Contributions:
+## Projects:
 **Solidity**
 * [Neons Dao Refund](https://github.com/chalabi2/neons-refund) - Solidty/Python
   
 **Backend**
-* [Cosmos Indexer](https://github.com/ChandraStation/cosmos-indexer) - Rust
-* [Gravity Info API](https://github.com/Gravity-Bridge/gravity-info-api) - Rust
-* [Space Station](https://github.com/ChandraStation/space-station) - TypeScript
-* [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - TypeScript
+* [Cosmos Indexer](https://github.com/ChandraStation/cosmos-indexer) - Efficient Cosmos SDK block indexer | Rust
+* [Gravity Info API](https://github.com/Gravity-Bridge/gravity-info-api) - Efficient indexer + data api | Rust
+* [Peer Visualizer](https://visualizer.chandrastation.com) - Tendermint peer crawler + chart/map ui | NEXTJS
+* [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - Ledger web validator tx signing | CosmosKit
+* [Manfifest](https://github.com/chalabi2/manifest-app) - Group & PoA module tx's + queries, IPFS | CosmosKit
+* [ManifestJS](https://github.com/chalabi2/manifestjs) - Telescope based Cosmos chain JS package | Telescope
 
 **Frontend**
 * [Quiksilver Liquid Staking App](https://github.com/quicksilver-zone/quicksilver/tree/main/web-ui) - NextJs/ChakraUI
@@ -28,7 +30,10 @@ TS, JS, Docker, Rust, Solidity, Python
 * [Validator Dashboard](https://github.com/chalabi2/validator-dashboard) - NextJs/ChakraUI
 * [Chandra Website](https://github.com/chalabi2/chandra-website) - NextJs/ChakraUI
 * [Althea App](https://github.com/chalabi2/althea-app) - React/ChakraUI
-
+* [Althea App V2]() - Element
+* [Peer Visualizer](https://visualizer.chandrastation.com) - React-Simple-Maps / Tailwind
+* [Manfifest](https://github.com/chalabi2/manifest-app) - Tailwind/DaisyUI
+  
 **Cool Projects/Contributions** 
 * [POW mining on Akash](https://github.com/chandrastation/pkt-on-akt)
 * [Canto Hackathon Winner]()
