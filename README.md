@@ -1,5 +1,5 @@
 # Joseph Chalabi
-- Co-founder @ [Chandra Station](https://chandrastation.com)
+- Co-founder @ [Chandra Station](https://github.com/ChandraStation)
   
 ## Get in touch:
 * [Twitter](https://twitter.com/chalabi_joseph)
