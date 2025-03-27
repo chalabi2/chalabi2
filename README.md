@@ -3,4 +3,6 @@
   
 ## Get in touch:
 * [Twitter](https://twitter.com/chalabi_joseph)
-* [Chandra Website](https://chadnrastation.com/contact)
+
+## Portfolio 
+* [jchalabi.xyz](https://jchalabi.xyz/](https://www.jchalabi.xyz/portfolio)
