@@ -5,4 +5,4 @@
 * [Twitter](https://twitter.com/chalabi_joseph)
 
 ## Portfolio 
-* [jchalabi.xyz](https://jchalabi.xyz/](https://www.jchalabi.xyz/portfolio)
+* [jchalabi.xyz](https://www.jchalabi.xyz/portfolio)
